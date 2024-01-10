@@ -11,8 +11,8 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 
 | 프로젝트명 | 기간 | 역할 | 프로젝트 요약 | 링크 |
 | ---------- | ---- | ---- | ------------- | ---- |
-| [맞춤형 광고 제공 프로젝트](https://github.com/wahoman/CNN-based_advertising_services.git) | 2023.07.14~07.28 | CNN 모델링 | Mediapipe, ResNet50 사용, 딥러닝으로 맞춤 광고 제공 | [보기](https://github.com/wahoman/CNN-based_advertising_services.git) |
-| [Object Detection 프로젝트](https://github.com/wahoman/YOLO_v8-mediapipe_.git) | 2023.08.01~08.31 | 객체 인식 개발 | Mediapipe, Yolo v8 활용, 어린이 교육용 | [보기](https://github.com/wahoman/YOLO_v8-mediapipe_.git) |
+| [CNN 맞춤형 광고 제공](https://github.com/wahoman/CNN-based_advertising_services.git) | 2023.07.14~07.28 | CNN 모델링 | Mediapipe, ResNet50 사용, 딥러닝으로 맞춤 광고 제공 | [보기](https://github.com/wahoman/CNN-based_advertising_services.git) |
+| [YOLIOv8 Object Detection](https://github.com/wahoman/YOLO_v8-mediapipe_.git) | 2023.08.01~08.31 | 객체 인식 개발 | Mediapipe, Yolo v8 활용, 어린이 교육용 | [보기](https://github.com/wahoman/YOLO_v8-mediapipe_.git) |
 | [커버 노래 공유&매칭 플랫폼](https://github.com/wahoman/AI_music_PROJECT.git) | 2023.09.01~09.31 | 음역대 측정 및 추천 시스템 개발 | Librosa 사용, 사용자 맞춤 노래 추천 | [보기](https://github.com/wahoman/AI_music_PROJECT.git) |
 | [AI 기반 음악 창작 플랫폼](https://github.com/wahoman/singsongchanson-AI.git) | 2023.10.01~11.30 | 생성형 AI를 프롬프트 튜닝 | 음악 창작 시스템 개발 | [보기](https://github.com/wahoman/singsongchanson-AI.git) |
 | AI기반 가상 면접 시스템 | 2023.12.01~12.12 | LLM 기반의 면접 질문 생성 | OpenAI Assistant,  | - |
