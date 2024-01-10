@@ -20,19 +20,19 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트에
 - **EPL 선수 몸값 예측하기**
   - **기간**: 2023.06.08~2023.06.16
   - **역할**: RandomForest 모델을 이용한 몸값 예측, 데이터 크롤링, 발표
-  - **기술**: Python, Pandas, Numpy, TensorFlow
+  - **기술**: Python, Pandas, Numpy, TensorFlow, 데이터수집, Colab,Gridsearch CV
   - **느낀 점**: 머신러닝 모델의 성능이 사용된 데이터의 질과 양에 의존한다는 것을 깊이 이해하게 되었습니다.
 
 - **Mediapipe, CNN(전이학습)을 활용한 맞춤형 광고 제공 프로젝트**
   - **기간**: 2023.07.14~2023.07.28
   - **역할**: ResNet50을 활용한 CNN 모델링으로 광고 대상의 효율적 인식 및 분류
-  - **기술**: Python, TensorFlow, Mediapipe, Pandas, Numpy
+  - **기술**: Python, TensorFlow, Mediapipe, Pandas, Numpy, Deeplearning
   - **느낀 점**: 실시간 얼굴 인식과 딥러닝 기술을 통해 맞춤형 광고 제공의 가능성을 입증했습니다.
 
 - **Yolo v8을 이용한 Object Detection**
   - **기간**: 2023.08.01~2023.08.31
   - **역할**: Mediapipe와 Yolo v8을 활용한 객체 인식 기능 개발
-  - **기술**: Python, Mediapipe, Yolov8
+  - **기술**: Mediapipe, Yolov8, TTS, GPT API, Flask
   - **느낀 점**: 프로젝트를 통해 어린이들의 호기심을 충족시키는 동시에, 기술적 문제 해결 능력과 창의성을 키우는 데 크게 기여했습니다.
 
 - **AI를 활용한 커뮤니티 기반의 커버 노래 공유&매칭 플랫폼**
@@ -44,7 +44,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트에
 - **AI 기반 음악 창작 및 공유 플랫폼 개발**
   - **기간**: 2023.10.01~2023.11.30
   - **역할**: 사용자의 텍스트와 이미지 입력에 기반한 음악 창작 시스템 개발
-  - **기술**: Python, Hugging Face, Stable Diffusion, MusicGen
+  - **기술**: Python, Hugging Face, Stable Diffusion, MusicGen, Blip
   - **느낀 점**: 창의적인 AI 응용 개발에 대한 자신감을 갖게 해주었으며, 생성 AI의 중요성과 프롬프트가 결과물에 미치는 영향에 대해 깊게 이해할 수 있었습니다.
 
 
