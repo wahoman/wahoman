@@ -51,7 +51,8 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **역할**: Mediapipe와 Yolo v8을 활용한 객체 인식 기능 개발
 - **기술**: Mediapipe, Yolov8, TTS, GPT API, Flask
 - **느낀 점**: 프로젝트를 통해 어린이들의 호기심을 충족시키는 동시에, 기술적 문제 해결 능력과 창의성을 키우는 데 크게 기여했습니다.
-- **https://github.com/wahoman/YOLO_v8-mediapipe_.git**
+- [프로젝트 링크](https://github.com/wahoman/YOLO_v8-mediapipe_.git)
+
 
 <br>  
     
@@ -60,7 +61,8 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **역할**: Librosa를 사용하여 사용자 음역대 측정 및 노래 추천 시스템 개발
 - **기술**: Python, Pytorch, Flask, TorchAudio, Librosa, Pyaudio, Spleeter
 - **느낀 점**: 서버와의 복잡한 통신 과정에 대한 귀중한 경험을 제공하였고, 실제 서비스 구현에 필요한 다양한 요소들에 대한 이해를 넓혔습니다.
-- **https://github.com/wahoman/AI_music_PROJECT.git**
+- [프로젝트 링크](https://github.com/wahoman/AI_music_PROJECT.git)
+
 
 <br>  
       
@@ -69,7 +71,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **역할**: 사용자의 텍스트와 이미지 입력에 기반한 음악 창작 시스템 개발
 - **기술**: Python, Hugging Face, Stable Diffusion, MusicGen, Blip
 - **느낀 점**: 창의적인 AI 응용 개발에 대한 자신감을 갖게 해주었으며, 생성 AI의 중요성과 프롬프트가 결과물에 미치는 영향에 대해 깊게 이해할 수 있었습니다.
-- **https://github.com/wahoman/singsongchanson-AI.git**
+- [프로젝트 링크](https://github.com/wahoman/singsongchanson-AI.git)
 
     
 <br>
