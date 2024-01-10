@@ -13,29 +13,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 ## 🌐 메타버스 아카데미 및 KT 에이블 스쿨 프로젝트
 프로젝트별로 기술적인 역할과 성과를 간결하게 소개합니다.
 <br>
-### AI기반 가상 면접 시스템 개발
-- **기간**: 2023.12.01~2023.12.12
-- **역할**: LLM을 이용한 면접 질문 생성, OpenAI Assistant을 이용한 면접관 성격 및 역할 부여, MYSQL DB 활용
-- **기술**: Python, JavaScript, SQL, FaceDetection, OpenAI Assistant, TTS, Mediapipe
-- **목표와 성과**: AI를 활용한 포트폴리오 분석 및 가상 면접 시뮬레이션 구현
 
-<br>  
-
-### AI기반 패션 커뮤니티 제작
-- **기간**: 2022.12.01~2023.01.19
-- **역할**: Django와 Flask를 활용한 웹 개발
-- **기술**: Django, JavaScript, Python
-- **성과**: 새로운 기술 습득 및 팀워크 강화
-
-<br>  
-
-### EPL 선수 몸값 예측하기
-- **기간**: 2023.06.08~2023.06.16
-- **역할**: 데이터 분석 및 RandomForest 모델 활용
-- **기술**: Python, Pandas, Numpy, TensorFlow, Colab, Gridsearch CV
-- **성과**: 데이터의 질과 양에 따른 머신러닝 성능 이해
-
-<br>  
 
 ### Mediapipe, CNN(전이학습)을 활용한 맞춤형 광고 제공 프로젝트
 - **기간**: 2023.07.14~2023.07.28
@@ -72,8 +50,30 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **기술**: Python, Hugging Face, Stable Diffusion, MusicGen, Blip
 - **느낀 점**: 창의적인 AI 응용 개발에 대한 자신감을 갖게 해주었으며, 생성 AI의 중요성과 프롬프트가 결과물에 미치는 영향에 대해 깊게 이해할 수 있었습니다.
 - [프로젝트 링크](https://github.com/wahoman/singsongchanson-AI.git)
+<br>  
+### AI기반 가상 면접 시스템 개발
+- **기간**: 2023.12.01~2023.12.12
+- **역할**: LLM을 이용한 면접 질문 생성, OpenAI Assistant을 이용한 면접관 성격 및 역할 부여, MYSQL DB 활용
+- **기술**: Python, JavaScript, SQL, FaceDetection, OpenAI Assistant, TTS, Mediapipe
+- **목표와 성과**: AI를 활용한 포트폴리오 분석 및 가상 면접 시뮬레이션 구현
 
-    
+<br>  
+
+### AI기반 패션 커뮤니티 제작
+- **기간**: 2022.12.01~2023.01.19
+- **역할**: Django와 Flask를 활용한 웹 개발
+- **기술**: Django, JavaScript, Python
+- **성과**: 새로운 기술 습득 및 팀워크 강화
+
+<br>  
+
+### EPL 선수 몸값 예측하기
+- **기간**: 2023.06.08~2023.06.16
+- **역할**: 데이터 분석 및 RandomForest 모델 활용
+- **기술**: Python, Pandas, Numpy, TensorFlow, Colab, Gridsearch CV
+- **성과**: 데이터의 질과 양에 따른 머신러닝 성능 이해
+
+
 <br>
 <br>    
 
