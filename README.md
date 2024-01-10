@@ -8,31 +8,23 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트에
 
 ### 개인 정보
 - **생년월일**: 1996.01.06
-- **이메일**: hgy8401@naver.com
+- **이메일**: [hgy8401@naver.com](mailto:hgy8401@naver.com)
 - **주소**: 경기도 남양주시 가운동
 - **병역사항**: 만기전역
 
 ### 🌐 메타버스 아카데미 및 KT 에이블 스쿨 프로젝트
-- **AI기반 패션 커뮤니티 제작**
-  - AI 기술을 활용하여 패션에 중점을 둔 커뮤니티 플랫폼 개발.
-- **EPL 선수 몸값 예측하기**
-  - 머신러닝을 사용하여 EPL 선수들의 몸값을 예측.
-- **Mediapipe, CNN(전이학습)을 활용한 맞춤형 광고 제공 프로젝트**
-  - 실시간 얼굴 인식을 통해 맞춤형 광고 제공.
-- **Yolo v8을 이용한 Object Detection**
-  - Yolo v8과 Mediapipe를 사용하여 객체 인식 기능 개발.
-- **AI를 활용한 커뮤니티 기반의 커버 노래 공유&매칭 플랫폼**
-  - 사용자 목소리 데이터를 기반으로 AI가 커버 노래를 제작 및 공유.
-- **AI 기반 음악 창작 및 공유 플랫폼 개발**
-  - 사용자 입력에 따라 AI가 음악과 앨범 아트를 창작 및 공유.
+- **AI기반 패션 커뮤니티 제작**: AI 기술을 활용하여 패션에 중점을 둔 커뮤니티 플랫폼 개발.
+- **EPL 선수 몸값 예측하기**: 머신러닝을 사용하여 EPL 선수들의 몸값을 예측.
+- **Mediapipe, CNN(전이학습)을 활용한 맞춤형 광고 제공 프로젝트**: 실시간 얼굴 인식을 통해 맞춤형 광고 제공.
+- **Yolo v8을 이용한 Object Detection**: Yolo v8과 Mediapipe를 사용하여 객체 인식 기능 개발.
+- **AI를 활용한 커뮤니티 기반의 커버 노래 공유&매칭 플랫폼**: 사용자 목소리 데이터를 기반으로 AI가 커버 노래를 제작 및 공유.
+- **AI 기반 음악 창작 및 공유 플랫폼 개발**: 사용자 입력에 따라 AI가 음악과 앨범 아트를 창작 및 공유.
 
 ## 🛠 기술 스택
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- **Framework/Library**: Tensorflow, Pytorch, Yolov8, Opencv
-- **Server**: Flask
-- **Database**: SQLite, MYSQL
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+**Framework/Library**: Tensorflow, Pytorch, Yolov8, Opencv  
+**Server**: Flask  
+**Database**: SQLite, MYSQL
 
 ## 🌱 경험과 성장
 ### 국토종주 - 끈기, 협업, 목표 지향성
@@ -45,4 +37,4 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트에
 이 경험은 개발자로서의 성장뿐만 아니라, 인생에서도 중요한 가치와 덕목을 배우는 계기가 되었습니다.
 
 ## 📫 연락처
-- 📧 이메일: [hgy8401@naver.com]
+- 📧 이메일: [hgy8401@naver.com](mailto:hgy8401@naver.com)
