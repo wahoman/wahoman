@@ -9,15 +9,15 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 
 ## 🌐 메타버스 아카데미 및 KT 에이블 스쿨 프로젝트
 
-| 프로젝트명 | 기간 | 역할 | 사용 기술 | 성과 | 링크 |
-| ---------- | ---- | ---- | -------- | ---- | ---- |
-| Mediapipe, CNN(전이학습)을 활용한 맞춤형 광고 제공 프로젝트 | 2023.07.14~2023.07.28 | ResNet50을 활용한 CNN 모델링으로 광고 대상의 효율적 인식 및 분류 | Python, TensorFlow, Mediapipe, Pandas, Numpy | 딥러닝을 활용한 맞춤형 광고 제공 가능성 탐구 | [링크](https://github.com/wahoman/CNN-based_advertising_services.git) |
-| Yolo v8을 이용한 Object Detection | 2023.08.01~2023.08.31 | Mediapipe와 Yolo v8을 활용한 객체 인식 기능 개발 | Mediapipe, Yolov8, TTS, GPT API, Flask | 어린이들의 호기심 충족 및 기술적 문제 해결 능력 향상 | [링크](https://github.com/wahoman/YOLO_v8-mediapipe_.git) |
-| AI를 활용한 커뮤니티 기반의 커버 노래 공유&매칭 플랫폼 | 2023.09.01~2023.09.31 | Librosa를 사용하여 사용자 음역대 측정 및 노래 추천 시스템 개발 | Python, Pytorch, Flask, TorchAudio, Librosa, Pyaudio, Spleeter | 서버와의 복잡한 통신 과정에 대한 경험 및 이해 확장 | [링크](https://github.com/wahoman/AI_music_PROJECT.git) |
-| AI 기반 음악 창작 및 공유 플랫폼 개발 | 2023.10.01~2023.11.30 | 사용자의 텍스트와 이미지 입력에 기반한 음악 창작 시스템 개발 | Python, Hugging Face, Stable Diffusion, MusicGen, Blip | 창의적 AI 응용 개발에 대한 자신감 향상 | [링크](https://github.com/wahoman/singsongchanson-AI.git) |
-| AI기반 가상 면접 시스템 개발 | 2023.12.01~2023.12.12 | LLM을 이용한 면접 질문 생성 및 OpenAI Assistant 활용 | Python, JavaScript, SQL, FaceDetection, OpenAI Assistant, TTS, Mediapipe | 포트폴리오 분석 및 가상 면접 시뮬레이션 구현 | - |
-| AI기반 패션 커뮤니티 제작 | 2022.12.01~2023.01.19 | Django와 Flask를 활용한 웹 개발 | Django, JavaScript, Python | 새로운 기술 습득 및 팀워크 강화 | - |
-| EPL 선수 몸값 예측하기 | 2023.06.08~2023.06.16 | 데이터 분석 및 RandomForest 모델 활용 | Python, Pandas, Numpy, TensorFlow, Colab, Gridsearch CV | 데이터의 질과 양에 따른 머신러닝 성능 이해 | - |
+| 프로젝트명 | 기간 | 역할 | 프로젝트 요약 | 링크 |
+| ---------- | ---- | ---- | ------------- | ---- |
+| [맞춤형 광고 제공 프로젝트](https://github.com/wahoman/CNN-based_advertising_services.git) | 2023.07.14~2023.07.28 | CNN 모델링 | Mediapipe, ResNet50 사용, 딥러닝으로 맞춤 광고 제공 | [보기](https://github.com/wahoman/CNN-based_advertising_services.git) |
+| [Object Detection 프로젝트](https://github.com/wahoman/YOLO_v8-mediapipe_.git) | 2023.08.01~2023.08.31 | 객체 인식 개발 | Mediapipe, Yolo v8 활용, 어린이 교육용 | [보기](https://github.com/wahoman/YOLO_v8-mediapipe_.git) |
+| [커버 노래 공유&매칭 플랫폼](https://github.com/wahoman/AI_music_PROJECT.git) | 2023.09.01~2023.09.31 | 음역대 측정 및 추천 시스템 개발 | Librosa 사용, 사용자 맞춤 노래 추천 | [보기](https://github.com/wahoman/AI_music_PROJECT.git) |
+| [AI 기반 음악 창작 플랫폼](https://github.com/wahoman/singsongchanson-AI.git) | 2023.10.01~2023.11.30 | 음악 창작 시스템 개발 | 텍스트, 이미지 기반 창작, 창의적 AI 응용 | [보기](https://github.com/wahoman/singsongchanson-AI.git) |
+| AI기반 가상 면접 시스템 | 2023.12.01~2023.12.12 | 면접 질문 생성 및 시뮬레이션 | OpenAI Assistant, 면접 시뮬레이션 구현 | - |
+| AI기반 패션 커뮤니티 | 2022.12.01~2023.01.19 | 웹 개발 | Django, Flask 활용, 팀워크 강화 | - |
+| EPL 선수 몸값 예측 | 2023.06.08~2023.06.16 | 데이터 분석 | RandomForest 모델, 데이터 분석을 통한 예측 | - |
 
 
 
