@@ -29,7 +29,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트에
   - **기술**: Python, TensorFlow, Mediapipe, Pandas, Numpy, Deeplearning
   - **느낀 점**: 실시간 얼굴 인식과 딥러닝 기술을 통해 맞춤형 광고 제공의 가능성을 입증했습니다.
   - **https://github.com/wahoman/CNN-based_advertising_services.git**
-  - 
+    
 - **Yolo v8을 이용한 Object Detection**
   - **기간**: 2023.08.01~2023.08.31
   - **역할**: Mediapipe와 Yolo v8을 활용한 객체 인식 기능 개발
@@ -43,7 +43,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트에
   - **기술**: Python, Pytorch, Flask, TorchAudio, Librosa, Pyaudio, Spleeter
   - **느낀 점**: 서버와의 복잡한 통신 과정에 대한 귀중한 경험을 제공하였고, 실제 서비스 구현에 필요한 다양한 요소들에 대한 이해를 넓혔습니다.
   - **https://github.com/wahoman/AI_music_PROJECT.git**
-  - 
+    
 - **AI 기반 음악 창작 및 공유 플랫폼 개발**
   - **기간**: 2023.10.01~2023.11.30
   - **역할**: 사용자의 텍스트와 이미지 입력에 기반한 음악 창작 시스템 개발
