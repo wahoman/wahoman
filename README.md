@@ -1,11 +1,14 @@
 # 👋 안녕하세요, AI를 공부하고 있는 여형구입니다!
 
+
 ## 🌟 소개
 KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트 참여를 통해 AI, 머신러닝, 데이터 분석 분야의 전문적 지식과 기술을 키워왔습니다. 이러한 경험을 바탕으로 기술적 문제 해결능력과 창의적인 사고를 개발하며, 사용자들의 삶에 긍정적인 변화를 가져올 수 있는 혁신적인 솔루션 개발을 목표로 하고 있습니다.
+
 
 ### 개인 정보
 - **이메일**: [hgy8401@naver.com](mailto:hgy8401@naver.com)
 - **병역사항**: 만기전역
+
 
 ## 🌐 메타버스 아카데미 및 KT 에이블 스쿨 프로젝트
 프로젝트별로 기술적인 역할과 성과를 간결하게 소개합니다.
@@ -15,6 +18,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **역할**: LLM을 이용한 면접 질문 생성, OpenAI Assistant을 이용한 면접관 성격 및 역할 부여, MYSQL DB 활용
 - **기술**: Python, JavaScript, SQL, FaceDetection, OpenAI Assistant, TTS, Mediapipe
 - **목표와 성과**: AI를 활용한 포트폴리오 분석 및 가상 면접 시뮬레이션 구현
+
   
 
 ### AI기반 패션 커뮤니티 제작
@@ -22,6 +26,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **역할**: Django와 Flask를 활용한 웹 개발
 - **기술**: Django, JavaScript, Python
 - **성과**: 새로운 기술 습득 및 팀워크 강화
+
   
 
 ### EPL 선수 몸값 예측하기
@@ -29,6 +34,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **역할**: 데이터 분석 및 RandomForest 모델 활용
 - **기술**: Python, Pandas, Numpy, TensorFlow, Colab, Gridsearch CV
 - **성과**: 데이터의 질과 양에 따른 머신러닝 성능 이해
+
   
 
 ### Mediapipe, CNN(전이학습)을 활용한 맞춤형 광고 제공 프로젝트
@@ -37,6 +43,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **기술**: Python, TensorFlow, Mediapipe, Pandas, Numpy
 - **성과**: 딥러닝을 활용한 맞춤형 광고 제공 가능성 탐구
 - [프로젝트 링크](https://github.com/wahoman/CNN-based_advertising_services.git)
+
   
     
 ### Yolo v8을 이용한 Object Detection
@@ -45,6 +52,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **기술**: Mediapipe, Yolov8, TTS, GPT API, Flask
 - **느낀 점**: 프로젝트를 통해 어린이들의 호기심을 충족시키는 동시에, 기술적 문제 해결 능력과 창의성을 키우는 데 크게 기여했습니다.
 - **https://github.com/wahoman/YOLO_v8-mediapipe_.git**
+
   
     
 ### AI를 활용한 커뮤니티 기반의 커버 노래 공유&매칭 플랫폼
@@ -53,6 +61,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **기술**: Python, Pytorch, Flask, TorchAudio, Librosa, Pyaudio, Spleeter
 - **느낀 점**: 서버와의 복잡한 통신 과정에 대한 귀중한 경험을 제공하였고, 실제 서비스 구현에 필요한 다양한 요소들에 대한 이해를 넓혔습니다.
 - **https://github.com/wahoman/AI_music_PROJECT.git**
+
   
       
 ### AI 기반 음악 창작 및 공유 플랫폼 개발
@@ -61,6 +70,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **기술**: Python, Hugging Face, Stable Diffusion, MusicGen, Blip
 - **느낀 점**: 창의적인 AI 응용 개발에 대한 자신감을 갖게 해주었으며, 생성 AI의 중요성과 프롬프트가 결과물에 미치는 영향에 대해 깊게 이해할 수 있었습니다.
 - **https://github.com/wahoman/singsongchanson-AI.git**
+
     
 
     
