@@ -50,7 +50,9 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 - **기술**: Python, Hugging Face, Stable Diffusion, MusicGen, Blip
 - **느낀 점**: 창의적인 AI 응용 개발에 대한 자신감을 갖게 해주었으며, 생성 AI의 중요성과 프롬프트가 결과물에 미치는 영향에 대해 깊게 이해할 수 있었습니다.
 - [프로젝트 링크](https://github.com/wahoman/singsongchanson-AI.git)
-<br>  
+  
+<br>
+
 ### AI기반 가상 면접 시스템 개발
 - **기간**: 2023.12.01~2023.12.12
 - **역할**: LLM을 이용한 면접 질문 생성, OpenAI Assistant을 이용한 면접관 성격 및 역할 부여, MYSQL DB 활용
