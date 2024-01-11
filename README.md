@@ -26,11 +26,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 | AI기반 패션 커뮤니티 | 2022.12.01~01.19 | Django, Flask 활용 웹 개발, 팀워크 강화, SNS 페이지 기본 틀 구축 경험 |
 | EPL 선수 몸값 예측 | 2023.06.08~06.16 | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
 
-
-
-
 <br>
-
 
 ## 🛠 기술 스택
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
@@ -53,8 +49,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 ### 책임감과 약속 준수
 정해진 기한과 약속을 지키는 것을 중요하게 여기며, 모든 프로젝트에서 책임감 있는 태도로 임합니다.
 
-
-
+<br>
 
 ## 📫 연락처
 - 📧 이메일: [hgy8401@naver.com](mailto:hgy8401@naver.com)
