@@ -31,7 +31,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 ## 🛠 기술 스택
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 **Framework/Library**: Tensorflow, Pytorch, Yolov8, Opencv  
-**Server**: Flask , FastAPI
+**Server**: Flask, FastAPI
 **Database**: SQLite, MYSQL
 
 <br>
