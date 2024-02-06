@@ -19,10 +19,10 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 | 프로젝트명 | 프로젝트 기간 | 프로젝트 요약 |
 | ---------- | ------------- | ------------- |
 | [CNN 맞춤형 광고 제공](https://github.com/wahoman/CNN-based_advertising_services.git) | 2023.07.14~07.28 | Mediapipe, ResNet50 사용, 딥러닝으로 맞춤 광고 제공, 얼굴 인식을 통한 나이대 및 성별 분류 |
-| [YOLOv8 Object Detection](https://github.com/wahoman/YOLO_v8-mediapipe_.git) | 2023.08.01~08.31 | Mediapipe, Yolo v8 활용, 어린이 교육용, 객체 인식 기능 개발, GPT API를 통한 사물 설명 및 상호작용 구현 |
+| [YOLOv8 Object Detection](https://github.com/wahoman/YOLO_v8-mediapipe_.git) | 2023.08.01~08.31 | Mediapipe, 데이터라벨링, Yolo v8 활용, 어린이 교육용, 객체 인식 기능 개발, GPT API를 통한 사물 설명 및 상호작용 구현 |
 | [커버 노래 공유&매칭 플랫폼](https://github.com/wahoman/AI_music_PROJECT.git) | 2023.09.01~09.31 | Librosa 사용, 사용자 맞춤 노래 추천, 사용자 음역대 측정, 서버와의 복잡한 통신 과정 경험 |
 | [AI 음악 창작 플랫폼](https://github.com/wahoman/singsongchanson-AI.git) | 2023.10.01~11.30 | 텍스트, 이미지 입력 기반 음악 창작, BLIP, Stable Diffusion, MusicGen 활용, 창의적 AI 응용 |
-| AI가상 면접 시스템 | 2023.12.01~12.12 | LLM 기반의 면접 질문 생성, OpenAI Assistant 활용, 가상 면접 시뮬레이션 구현 |
+| AI가상 면접 시스템 | 2023.12.01~12.12 | LLM 기반의 면접 질문 생성, MYSQL, OpenAI Assistant 활용, 가상 면접 시뮬레이션 구현 |
 | AI패션 커뮤니티 | 2022.12.01~01.19 | Django, Flask 활용 웹 개발, 팀워크 강화, SNS 페이지 기본 틀 구축 경험 |
 | EPL 선수 몸값 예측 | 2023.06.08~06.16 | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
 
