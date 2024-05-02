@@ -23,6 +23,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 | AI패션 커뮤니티 | 2022.12.01~01.19 | Django, Flask 활용 웹 개발, 팀워크 강화, SNS 페이지 기본 틀 구축 경험 |
 | EPL 선수 몸값 예측 | 2023.06.08~06.16 | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
 | [챗봇 자비스](https://github.com/wahoman/Chatbot-Jarvis) | 2024.01.24~진행중 | MYSQL을 활용한 DB구축, LLM기반의 챗봇 | 
+| [Langchain기반의 챗봇](https://github.com/wahoman/pdf_tokenize_Chatbot) | 2024.04.08~2024.04.30 |Pdf임베딩을 통한 Langchain기반의 챗봇 | 
 <br>
 
 ## 🛠 기술 스택
