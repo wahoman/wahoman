@@ -58,7 +58,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 | EPL 선수 몸값 예측 | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
 | [챗봇 자비스](https://github.com/wahoman/Chatbot-Jarvis) | MySQL을 활용한 DB 구축, LLM 기반의 챗봇 |
 | [Langchain 챗봇](https://github.com/wahoman/pdf_tokenize_Chatbot) | Pdf 임베딩을 통한 Langchain 기반의 챗봇 |
-| [이미지 Lora 모델제작](https://github.com/wahoman/Lora) | 원하는 이미지 데이터 확보를 위한 Lora 모델 학습 |
+| [Lora 모델제작](https://github.com/wahoman/Lora) | 원하는 이미지 데이터 확보를 위한 Lora 모델 학습 |
 
 <br>
 
