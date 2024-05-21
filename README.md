@@ -55,7 +55,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 | [AI 음악 창작](https://github.com/wahoman/singsongchanson-AI.git) | 텍스트 및 이미지 입력 기반 음악 창작, BLIP, Stable Diffusion, MusicGen 활용, 창의적 AI 응용 |
 | AI가상 면접 시스템 | LLM 기반의 면접 질문 생성, MySQL, OpenAI Assistant 활용, 가상 면접 시뮬레이션 구현 |
 | AI패션 커뮤니티 | Django, Flask 활용 웹 개발, 팀워크 강화, SNS 페이지 기본 틀 구축 경험 |
-| EPL 선수 몸값 예측 | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
+| [EPL 선수몸값 예측](https://github.com/wahoman/EPL) | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
 | [챗봇 자비스](https://github.com/wahoman/Chatbot-Jarvis) | MySQL을 활용한 DB 구축, LLM 기반의 챗봇 |
 | [Langchain 챗봇](https://github.com/wahoman/pdf_tokenize_Chatbot) | Pdf 임베딩을 통한 Langchain 기반의 챗봇, Llama3, eeve 등 오픈소스 언어모델 경험 |
 | [Lora 모델제작](https://github.com/wahoman/Lora) | 원하는 이미지 데이터 확보를 위한 Lora 모델 학습 |
