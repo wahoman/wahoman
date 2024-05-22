@@ -50,7 +50,7 @@ KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트
 | 프로젝트명 | 프로젝트 요약 |
 | ---------- | ------------- |
 | [CNN 맞춤형 광고](https://github.com/wahoman/CNN-based_advertising_services.git) | Mediapipe와 ResNet50을 사용하여 딥러닝으로 맞춤 광고 제공, 얼굴 인식을 통한 나이대 및 성별 분류 |
-| [YOLOv8 detection](https://github.com/wahoman/YOLO_v8-mediapipe_.git) | Mediapipe와 Yolo v8을 활용하여 어린이 교육용 객체 인식 기능 개발, GPT API를 통한 사물 설명 및 상호작용 구현 |
+| [YOLOv8 detection](https://github.com/wahoman/Yolov8_detection) | Mediapipe와 Yolo v8을 활용하여 어린이 교육용 객체 인식 기능 개발, GPT API를 통한 사물 설명 및 상호작용 구현 |
 | [AI노래커버 플랫폼](https://github.com/wahoman/AI_music_PROJECT.git) | Librosa를 사용한 사용자 맞춤 노래 추천, 사용자 음역대 측정, 서버와의 복잡한 통신 과정 경험 |
 | [AI 음악 창작](https://github.com/wahoman/singsongchanson-AI.git) | 텍스트 및 이미지 입력 기반 음악 창작, BLIP, Stable Diffusion, MusicGen 활용, 창의적 AI 응용 |
 | AI가상 면접 시스템 | LLM 기반의 면접 질문 생성, MySQL, OpenAI Assistant 활용, 가상 면접 시뮬레이션 구현 |
