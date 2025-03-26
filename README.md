@@ -76,6 +76,3 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트를
 - 🐙 GitHub: [github.com/wahoman](https://github.com/wahoman)
 
 ---
-
-이 구성을 그대로 `README.md`에 복붙하면 돼.  
-필요하면 마크다운 파일로 저장해줄게! 추가하거나 강조하고 싶은 프로젝트가 있다면 언제든 말해줘 🔥
