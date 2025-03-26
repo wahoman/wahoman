@@ -1,68 +1,81 @@
-# 👋  생성형AI와 ML을 공부하고 있는 여형구 입니다 
-       
-## 🌟 소개  
-KT 에이블 스쿨과 메타버스 아카데미에서의 다양한 프로젝트 참여를 통해 AI, 머신러닝, 데이터 분석 분야의 전문적 지식과 기술을 키웠습니다. 
-      
-**🎓 교육 이력**  
-- **2022년 07월 ~ 2023년 01월**: KT 에이블 스쿨 AI 과정 수료
-- **2023년 05월 ~ 2023년 12월**: 메타버스 아카데미 AI 과정 수료 (우수수료생) 
- 
-이러한 경험을 바탕으로 기술적 문제 해결능력과 창의적인 사고를 개발하며, 사용자들의 삶에 긍정적인 변화를 가져올 수 있는 혁신적인 솔루션 개발을 목표로 하고 있습니다.
-<br>
+# 👋 1년차 AI개발자 여형구입니다
 
-## 🛠 사용해 본 기술 
+## 🌟 소개
+KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트를 통해 AI, 머신러닝, 데이터 분석 기술을 실무에 적용해보았습니다.  
+창의적인 문제 해결과 협업을 중시하며, 사용자에게 의미 있는 가치를 전달하는 개발자가 되고자 합니다.
+
+### 🎓 교육 이력
+- **2022.07 ~ 2023.01**: KT 에이블 스쿨 AI 과정 수료  
+- **2023.05 ~ 2023.12**: 메타버스 아카데미 AI 과정 수료 (우수 수료생)  
+
+---
+
+## 🚀 Skill
 
 <div align="center">
 
-### - Languages
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
+### Languages  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30"/>
 
-### - AI
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-Yolov8-0078D4?style=flat-square&logo=yolo&logoColor=white" height="30"/>  <!-- Placeholder for Yolov8 -->
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="30"/>
+### Frontend  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="30"/>  
+<img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" height="30"/>  
 
-### - Server
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="30"/>
+### Backend / Server  
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="30"/>
 
-### - Database
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30"/>
+### AI & ML  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/YOLOv8-0078D4?logo=yolo&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/LoRA-FF6F00?logo=openai&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/MusicGen-blue?logo=openai&logoColor=white" height="30"/>  
 
-### - Tools
-<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-LoRA-FF6F00?style=flat-square&logo=some-lora-logo&logoColor=white" height="30"/>  <!-- Placeholder for LoRA -->
-<img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30"/>
+### Database  
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="30"/>  
+
+### Tools & Infra  
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Render-46A2F1?logo=render&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Ollama-black?logo=ollama&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/ChromaDB-purple?logo=database&logoColor=white" height="30"/>  
 
 </div>
 
-<br>
+---
+
+## 🌐 주요 프로젝트
+
+| 프로젝트명 | 설명 | 주요 기술 |
+|------------|------|------------|
+| [🎯 SVG 여행지 추천](https://my-travel-5.onrender.com/) | **SVG 지도 기반 지역 선택 + 랜덤 여행지 셔플 웹앱** | `React`, `FastAPI`, `Axios`, `Render`, `SVG`, `Git` |
+| [🧪 위해물품 탐지](https://github.com/wahoman/yolov10m) | **YOLOv8-seg 기반 X-ray 위해물 탐지 + 자동 라벨링 시스템 구축** | `YOLOv8`, `Segmentation`, `SAM2`, `CVAT`, `LabelImg` |
+| [🎨 AI 음악 창작](https://github.com/wahoman/singsongchanson-AI.git) | **텍스트 & 이미지 기반 음악 + 앨범 아트 생성** | `MusicGen`, `BLIP`, `Stable Diffusion`, `GPT API` |
+| [🧞 챗봇 자비스](https://github.com/wahoman/Chatbot-Jarvis) | **MySQL 기반 대화 기억형 LLM 챗봇 시스템** | `LLM`, `MySQL`, `FastAPI` |
+| [📊 EPL 몸값 예측](https://github.com/wahoman/EPL) | **선수 데이터 크롤링 + 머신러닝 기반 몸값 예측** | `RandomForest`, `Pandas`, `Numpy`, `GridSearchCV` |
+| [📷 YOLOv8 탐지](https://github.com/wahoman/Yolov8_detection) | **유아 대상 객체 인식 + GPT 설명 출력 기능** | `YOLOv8`, `Mediapipe`, `GPT API`, `Flask` |
+| [📚 PDF 챗봇](https://github.com/wahoman/pdf_tokenize_Chatbot) | **PDF 기반 RAG 챗봇 (LLM + 검색형 응답)** | `LangChain`, `ChromaDB`, `FastAPI`, `LLaMA`, `OpenAI` |
+| [🧠 맞춤형 광고](https://github.com/wahoman/CNN-based_advertising_services.git) | **실시간 얼굴 인식 → 성별/연령 기반 광고 추천** | `ResNet50`, `CNN`, `Mediapipe`, `OpenCV` |
+| [🧪 LORA 이미지 생성](https://github.com/wahoman/Lora) | **LoRA 기반 X-ray 이미지 생성 및 YOLO 데이터 보강** | `LoRA`, `Stable Diffusion`, `DreamBooth`, `kohya_ss` |
 
 
-## 🌐 프로젝트 
-
-| 프로젝트명 | 프로젝트 요약 |
-| ---------- | ------------- |
-| [CNN 맞춤형 광고](https://github.com/wahoman/CNN-based_advertising_services.git) | Mediapipe와 ResNet50을 사용하여 딥러닝으로 맞춤 광고 제공, 얼굴 인식을 통한 나이대 및 성별 분류 |
-| [YOLOv8 detection](https://github.com/wahoman/Yolov8_detection) | Mediapipe와 Yolo v8을 활용하여 어린이 교육용 객체 인식 기능 개발, GPT API를 통한 사물 설명 및 상호작용 구현 |
-| [YOLOv8-segmentation](https://github.com/wahoman/yolov10m) | yolov8-seg custom 데이터 학습을 통한 위해물품 탐지 |
-| [AI노래커버 플랫폼](https://github.com/wahoman/AI_music_PROJECT.git) | Librosa를 사용한 사용자 맞춤 노래 추천, 사용자 음역대 측정, 서버와의 복잡한 통신 과정 경험 |
-| [AI 음악 창작](https://github.com/wahoman/singsongchanson-AI.git) | 텍스트 및 이미지 입력 기반 음악 창작, BLIP, Stable Diffusion, MusicGen 활용, 창의적 AI 응용 |
-| AI가상 면접 시스템 | LLM 기반의 면접 질문 생성, MySQL, OpenAI Assistant 활용, 가상 면접 시뮬레이션 구현 |
-| AI패션 커뮤니티 | Django, Flask 활용 웹 개발, 팀워크 강화, SNS 페이지 기본 틀 구축 경험 |
-| [EPL 선수몸값 예측](https://github.com/wahoman/EPL) | 머신러닝, 데이터 분석을 통한 EPL 선수 몸값 예측, RandomForest 모델 사용, 데이터 크롤링 및 분석 경험 |
-| [챗봇 자비스](https://github.com/wahoman/Chatbot-Jarvis) | MySQL을 활용한 DB 구축, LLM 기반의 챗봇 |
-| [Langchain 챗봇](https://github.com/wahoman/pdf_tokenize_Chatbot) | Pdf 임베딩을 통한 Langchain 기반의 챗봇, Llama3, eeve 등 오픈소스 언어모델 경험 |
-| [Lora 모델제작](https://github.com/wahoman/Lora) | 원하는 이미지 데이터 확보를 위한 Lora 모델 학습 |
-
-
-<br>
+---
 
 ## 📫 연락처
-- 📧 이메일: [hgy8401@naver.com](mailto:hgy8401@naver.com)
+- 📧 Email: [hgy8401@naver.com](mailto:hgy8401@naver.com)
+- 🐙 GitHub: [github.com/wahoman](https://github.com/wahoman)
+
+---
+
+이 구성을 그대로 `README.md`에 복붙하면 돼.  
+필요하면 마크다운 파일로 저장해줄게! 추가하거나 강조하고 싶은 프로젝트가 있다면 언제든 말해줘 🔥
