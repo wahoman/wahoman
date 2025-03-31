@@ -74,5 +74,6 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트를
 ## 📫 연락처
 - 📧 Email: [hgy8401@naver.com](mailto:hgy8401@naver.com)
 - 🐙 GitHub: [github.com/wahoman](https://github.com/wahoman)
+- ✍️ Velog: [velog.io/@hgy9511/posts](https://velog.io/@hgy9511/posts)
 
 ---
