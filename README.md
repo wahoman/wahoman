@@ -32,11 +32,10 @@ KT 에이블 스쿨과 메타버스 아카데미에서 다양한 프로젝트를
 ### AI & ML  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="30"/>  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/YOLOv8-0078D4?logo=yolo&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/YOLO-0078D4?logo=yolo&logoColor=white" height="30"/>  
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="30"/>  
 <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" height="30"/>  
 <img src="https://img.shields.io/badge/LoRA-FF6F00?logo=openai&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/MusicGen-blue?logo=openai&logoColor=white" height="30"/>  
 
 ### Database  
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/>  
