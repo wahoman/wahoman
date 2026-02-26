@@ -1,4 +1,4 @@
-# 👋 데이터 설계부터 서비스 구현까지 주도하는 Full-Cycle AI Engineer 여형구입니다
+# AI Engineer 여형구입니다
 
 <div align="left">
   <a href="https://velog.io/@hgy9511/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
