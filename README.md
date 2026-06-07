@@ -1,19 +1,44 @@
-# 안녕하세요, 여형구입니다
+# 여형구 · AI / ML Engineer
 
-**Computer Vision을 코어로, 필요한 시스템을 0부터 만드는 AI / ML 엔지니어입니다.**
+Computer Vision을 코어로 — 데이터 파이프라인, 모델 학습, 서비스 백엔드까지
+**필요한 시스템을 0부터 설계하고 구축합니다.**
 
 X-ray 보안검색 도메인의 스타트업에서 유일한 AI 개발자로 일하며,
-데이터 파이프라인 → 모델 학습 → 서비스 백엔드까지 전 과정을 직접 설계하고 구축해 왔습니다.
+모델보다 데이터를 먼저 보고, 반복되는 일은 도구로 바꾸는 방식으로 문제를 풀어왔습니다.
 
+`Data-Centric CV` · `MLOps` · `LLM / RAG / Agent`
 
 <br>
 
-## 대표 프로젝트
+## Featured Projects
 
-| 프로젝트 | 소개 | 키워드 |
-|---|---|---|
-| **[xray-agent-platform](https://github.com/wahoman/xray-agent-platform)** | 문서 질의응답(RAG)과 X-ray 이미지 탐지를 하나의 Agent가 상황에 맞게 골라 쓰는 FastAPI 백엔드. hybrid 검색(RRF)+LLM reranker 2단계, hit@k 평가 하니스, mock↔openai provider로 키 없이 CI/데모 | `LangGraph` `Qdrant` `PostgreSQL` `RRF` `reranker` `Docker` |
-| **[ml-experiment-launcher](https://github.com/wahoman/ml-experiment-launcher)** | 데이터셋 빌드 → 학습 → 검증 → 테스트셋 평가를 한 화면으로 묶은 YOLO 실험 런처. 학습은 subprocess로 격리(UI가 죽어도 학습 유지), MLflow로 실험 기록·비교·재현 | `Gradio` `subprocess` `MLflow` `Ultralytics` |
+### [xray-agent-platform](https://github.com/wahoman/xray-agent-platform)
+
+문서 질의응답(RAG)과 X-ray 이미지 탐지를 **하나의 Agent가 상황에 맞게 골라 쓰는** FastAPI 백엔드
+
+- **LangGraph StateGraph** 라우팅 — `route → rag / chat / vision → generate`, LLM 실패 시 폴백
+- **2-Stage 검색** — 벡터(Qdrant) + 키워드(PostgreSQL full-text)를 RRF로 융합 후 LLM reranker로 재정렬
+- **검증 가능한 품질** — hit@k 평가 하니스 · pytest + GitHub Actions CI · mock↔openai provider로 API 키 없이 데모
+- Docker Compose 전체 스택 · 헬스체크 · request-id 로깅
+
+### [ml-experiment-launcher](https://github.com/wahoman/ml-experiment-launcher)
+
+데이터셋 빌드 → 학습 → 검증 → 평가를 한 화면으로 묶은 **YOLO 통합 실험 런처**
+
+- **subprocess 학습 격리** — UI가 죽어도 학습은 계속, SIGTERM 안전 중단
+- **symlink 가상 데이터셋** — 실험마다 데이터 복제 없이 구성
+- **MLflow 실험 추적** — params·metrics 자동 기록, 도입 이전 실험까지 소급 등록(backfill)하는 스크립트 포함
+
+<br>
+
+## Highlights
+
+| | |
+|---|---|
+| **라벨 정제로 성능 개선** | 임베딩 클러스터링(DINOv2 · UMAP · HDBSCAN)과 자체 검수 도구로 50만 장 라벨 정제 → 모델 변경 없이 **mAP 0.50 → 0.86** |
+| **위기 대응** | 라벨링 외주 결렬 시 few-shot 오토라벨링 파이프라인으로 **10만 장 / 3주** 처리 |
+| **물리 기반 합성** | Beer-Lambert 곱셈 합성 + CuPy(GPU) 가속 — 겹친 물체의 투과까지 정합한 X-ray 합성으로 클래스 불균형 완화 |
+| **실험 자동화** | 매 실험 수 시간 걸리던 수동 작업 → 통합 런처 + MLflow로 **클릭 한 번** |
 
 <br>
 
@@ -45,14 +70,6 @@ X-ray 보안검색 도메인의 스타트업에서 유일한 AI 개발자로 일
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-<br>
-
-## 일하는 방식
-
-- **막히면 데이터부터 의심합니다.** 모델이 객체를 놓칠 때 아키텍처를 키우는 대신 라벨을 들여다봤고, 임베딩 클러스터링(DINOv2+HDBSCAN)과 자체 검수 도구로 라벨을 정제해 모델 변경 없이 성능을 올렸습니다.
-- **반복은 시스템으로 바꿉니다.** 매 실험 몇 시간씩 걸리던 수동 작업을 통합 런처와 MLflow로 묶어 클릭 한 번으로 줄였습니다.
-- **숫자는 정직하게 다룹니다.** 검색 품질은 hit@k로 직접 측정하고, 데이터셋이 작아 생기는 한계는 한계라고 말합니다.
 
 <br>
 
