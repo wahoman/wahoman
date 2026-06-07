@@ -1,4 +1,4 @@
-# 안녕하세요, 여형구입니다 👋
+# 안녕하세요, 여형구입니다
 
 **Computer Vision을 코어로, 필요한 시스템을 0부터 만드는 AI / ML 엔지니어입니다.**
 
@@ -9,7 +9,7 @@ X-ray 보안검색 도메인의 스타트업에서 유일한 AI 개발자로 일
 
 <br>
 
-## 🔭 대표 프로젝트
+## 대표 프로젝트
 
 | 프로젝트 | 소개 | 키워드 |
 |---|---|---|
@@ -18,17 +18,38 @@ X-ray 보안검색 도메인의 스타트업에서 유일한 AI 개발자로 일
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**CV / ML** &nbsp;—&nbsp; Python · PyTorch · YOLO11 · DINOv2 · OpenCV · CuPy · UMAP · HDBSCAN
+**CV / ML**
 
-**LLM / RAG** &nbsp;—&nbsp; LangGraph · Qdrant · 임베딩 · hybrid 검색(RRF) · reranker
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge)
+![DINOv2](https://img.shields.io/badge/DINOv2-4B32C3?style=for-the-badge)
+![CuPy](https://img.shields.io/badge/CuPy-76B900?style=for-the-badge)
+![UMAP](https://img.shields.io/badge/UMAP-5A6B8C?style=for-the-badge)
+![HDBSCAN](https://img.shields.io/badge/HDBSCAN-5A6B8C?style=for-the-badge)
 
-**Backend / MLOps** &nbsp;—&nbsp; FastAPI · PostgreSQL · Docker · GitHub Actions · MLflow · Gradio · PyQt
+**LLM / RAG**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20%C2%B7%20Hybrid%20Search-2563EB?style=for-the-badge)
+
+**Backend / MLOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 <br>
 
-## 💡 일하는 방식
+## 일하는 방식
 
 - **막히면 데이터부터 의심합니다.** 모델이 객체를 놓칠 때 아키텍처를 키우는 대신 라벨을 들여다봤고, 임베딩 클러스터링(DINOv2+HDBSCAN)과 자체 검수 도구로 라벨을 정제해 모델 변경 없이 성능을 올렸습니다.
 - **반복은 시스템으로 바꿉니다.** 매 실험 몇 시간씩 걸리던 수동 작업을 통합 런처와 MLflow로 묶어 클릭 한 번으로 줄였습니다.
@@ -36,6 +57,6 @@ X-ray 보안검색 도메인의 스타트업에서 유일한 AI 개발자로 일
 
 <br>
 
-## 📫 Contact
+## Contact
 
 **hgy8401@naver.com**
