@@ -25,23 +25,14 @@ X-ray 보안검색 스타트업의 유일한 AI 개발자 —
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### [xray-agent-platform](https://github.com/wahoman/xray-agent-platform)
 
-RAG 문서 질의응답 + X-ray 이미지 탐지를 **하나의 Agent가 골라 쓰는** FastAPI 백엔드
+RAG 문서 질의응답 + X-ray 이미지 탐지를 **하나의 Agent가 상황에 맞게 골라 쓰는** FastAPI 백엔드
 
-- **LangGraph** 라우팅 — `route → rag / chat / vision → generate` + 폴백
-- **2-Stage 검색** — Qdrant 벡터 + PostgreSQL 키워드 **RRF 융합** → LLM reranker
-- 장비 매뉴얼 기반 **hit@k 평가셋 50케이스** · pytest 32 · CI
+- **LangGraph** 라우팅 — `route → rag / chat / vision → generate` + LLM 실패 시 폴백
+- **2-Stage 검색** — Qdrant 벡터 + PostgreSQL 키워드를 **RRF 융합** 후 LLM reranker로 재정렬
+- 장비 매뉴얼 기반 **hit@k 평가셋 50케이스** · pytest 32 · GitHub Actions CI
 - 에러 응답 표준화(code · request-id) · Docker Compose 전체 스택
-
-`FastAPI` `LangGraph` `Qdrant` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
 
 ### [ml-experiment-launcher](https://github.com/wahoman/ml-experiment-launcher)
 
@@ -49,50 +40,37 @@ RAG 문서 질의응답 + X-ray 이미지 탐지를 **하나의 Agent가 골라 
 
 - **subprocess 학습 격리** — UI가 죽어도 학습은 계속, SIGTERM 안전 중단
 - **symlink 가상 데이터셋** — 실험마다 데이터 복제 없이 구성
-- **MLflow 추적** — params·metrics 자동 기록 + 과거 실험 소급 등록(backfill)
+- **MLflow 실험 추적** — params·metrics 자동 기록 + 과거 실험 소급 등록(backfill)
 - 탭별 모듈 구조 · **pytest 136** · CI
-
-`Gradio` `Ultralytics` `MLflow` `subprocess`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### [object-cluster-refine](https://github.com/wahoman/object-cluster-refine)
 
 YOLO 라벨 정제를 위한 **비지도 pseudo-class 발견** 파이프라인
 
 - **DINOv2(768D) + X-ray 색(75D) + 크기** 특징 융합 → UMAP → HDBSCAN
-- 다중 회전 임베딩 · 2단 크기 필터 · hardlink 데이터셋 출력
-- 실무에서 mAP 0.50 → 0.86을 만든 기법을 **범용 패키지로 공개**
+- 실무에서 **mAP 0.50 → 0.86**을 만든 기법을 범용 패키지로 공개
 - lazy import 설계 — torch 없이도 CLI·테스트 동작 · **pytest 75**
-
-`DINOv2` `UMAP` `HDBSCAN` `OpenCV`
-
-</td>
-<td width="50%" valign="top">
 
 ### [My_Travel](https://github.com/wahoman/My_Travel) · [Live ↗](https://my-travel-tau-five.vercel.app)
 
 SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰렛** (운영 중)
 
 - React + FastAPI(Render)로 시작 → 콜드스타트 문제에 **백엔드 제거, 정적 + Vercel 전환**
-- 전국 **247개 시/군/구 → 읍/면/동** 데이터 직접 구축 (100% 커버)
-- 카카오맵 장소검색 · 카카오톡 공유(deep-link) · SEO
-
-`React` `Kakao Maps` `Vercel`
-
-</td>
-</tr>
-</table>
+- 전국 **247개 시/군/구 → 읍/면/동** 데이터 직접 구축 · 카카오맵 장소검색 · 카카오톡 공유 · SEO
 
 <br>
 
 ## ⚡ Highlights
 
+- **라벨 정제로 성능 개선** — 임베딩 클러스터링 + 자체 검수 도구로 50만 장 라벨 정제, 모델 변경 없이 **mAP 0.50 → 0.86**
+- **위기 대응** — 라벨링 외주 결렬 시 few-shot 오토라벨링 파이프라인으로 **10만 장 / 3주** 처리
+- **물리 기반 합성** — Beer-Lambert 곱셈 합성 + CuPy(GPU) 가속으로 클래스 불균형 완화
+- **실험 자동화** — 매 실험 수 시간의 수동 작업 → 통합 런처 + MLflow로 **클릭 한 번**
+
+<br>
+
+## 🛠 Tech Stack
+
 | | |
 |---|---|
-| **라벨 정제로 성능 개선** | 임베딩 클러스터링 + 자체 검수 도구로 50만 장 라벨 정제 → 모델 변경 없이 **mAP 0.50 → 0.86** |
-| **위기 대응** | 라벨링 외주 결렬 시 few-shot 오토라벨링 파이프라인으로 **10만 장 / 3주** 처리 |
-| **물리 기반 합성** | Beer-Lambert 곱셈 합성 + CuPy(GPU) — 겹친 물체의 투과까지 정합한 X-ray 합성으로 클
+| **CV / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?st
