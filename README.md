@@ -71,6 +71,6 @@ SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰
 
 ## 🛠 Tech Stack
 
-| | |
-|---|---|
-| **CV / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?st
+- **CV / ML** — `Python` `PyTorch` `OpenCV` `YOLO11` `DINOv2` `CuPy` `UMAP` `HDBSCAN` `NumPy` `Pandas`
+- **LLM / RAG** — `LangGraph` `Qdrant` `RRF Hybrid Search` `LLM Reranker` `임베딩`
+- **Backend / MLOps** — `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `MLflow` `Gradio` `PyQ
