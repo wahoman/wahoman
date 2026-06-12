@@ -60,6 +60,14 @@ SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰
 
 <br>
 
+### [minecraft-skin-maker](https://minecraft-skin-maker.vercel.app) · [Live ↗](https://minecraft-skin-maker.vercel.app)
+
+사진·일러스트를 마인크래프트 64×64 스킨으로 바꾸는 **CV + LLM 하이브리드 변환기** (운영 중)
+
+- **MediaPipe 3중 인식** — Pose 33관절 · Face 478점 · Hair 분할 → 관절 폴리라인 샘플링으로 굽은 팔도 펴서 추출
+- **GPT-4o 시맨틱 모드** — 이미지를 설계 명세(JSON)로 분석하면 결정적 렌더러가 옆·뒷면까지 도트 생성, 인간형·마스코트형 모두 지원
+- median-cut **캐릭터 팔레트** · 고정 시드 결정적 출력 · 빌드 없는 바닐라 JS + **Vercel Functions 키 프록시**(일일 호출 제한)
+
 ## ⚡ Highlights
 
 - **라벨 정제로 성능 개선** — 임베딩 클러스터링 + 자체 검수 도구로 50만 장 라벨 정제, 모델 변경 없이 **mAP 0.50 → 0.86**
