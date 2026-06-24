@@ -4,7 +4,7 @@
 
 **모델보다 데이터를 먼저 보고, 반복되는 일은 도구로 바꿉니다.**
 
-X-ray 보안검색 스타트업의 유일한 AI 개발자 —
+X-ray 보안검색 스타트업에서 AI 개발을 혼자 맡아 —
 데이터 파이프라인 · 모델 학습 · 서비스 백엔드까지 필요한 시스템을 0부터 설계하고 구축합니다.
 
 ![Data-Centric CV](https://img.shields.io/badge/Data--Centric%20CV-059669?style=flat-square&logoColor=white)
@@ -50,6 +50,14 @@ YOLO 라벨 정제를 위한 **비지도 pseudo-class 발견** 파이프라인
 - **DINOv2(768D) + X-ray 색(75D) + 크기** 특징 융합 → UMAP → HDBSCAN
 - 실무에서 **mAP 0.50 → 0.86**을 만든 기법을 범용 패키지로 공개
 - lazy import 설계 — torch 없이도 CLI·테스트 동작 · **pytest 75**
+
+### [Auto-Labeling](https://github.com/wahoman/Auto-Labeling)
+
+X-ray 데이터셋을 혼자 대규모로 구축·정제한 **오토라벨링 · 검수 파이프라인**
+
+- **SAM2 오토라벨링** + labelme JSON → YOLO seg 변환(최외곽선 추출, 멀티프로세싱)
+- **PyQt 로컬 검수 뷰어** — 키보드 한 손 조작, 삭제 되돌리기 (웹 업로드 없이 보안·속도 확보)
+- 10만 장 규모를 혼자 처리 · 클래스 세분화로 탐지 성능 개선 · 오탐 감소
 
 ### [My_Travel](https://github.com/wahoman/My_Travel) · [Live ↗](https://my-travel-tau-five.vercel.app)
 
