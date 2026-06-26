@@ -73,4 +73,16 @@ SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰
 
 - **라벨 정제로 성능 개선** — 임베딩 클러스터링 + 자체 검수 도구로 50만 장 라벨 정제, 모델 변경 없이 **mAP 0.50 → 0.86**
 - **비용 절감** — few-shot 오토라벨링으로 10만 장을 직접 처리, **외주 환산 약 3,000만 원 절감**
-- **GPU 가속** — TIP 합성 100만 장 컬러매핑을 NumPy → Cu
+- **GPU 가속** — TIP 합성 100만 장 컬러매핑을 NumPy → CuPy(GPU)+병렬로 **약 2주 → 반나절**
+- **실험 자동화** — 매 실험 수 시간의 수동 작업 → 통합 런처 + MLflow로 **클릭 한 번**
+- **데이터 운영** — 100GB 학습 데이터를 버전별 SQLite DB로 **1GB 이하 보관**, 반복 업무를 **40여 개 도구**로 자동화
+
+<br>
+
+## 🛠 Tech Stack
+
+- **CV / ML** — `Python` `PyTorch` `YOLO11 / seg` `DINOv2` `UMAP` `HDBSCAN` `OpenCV` `CuPy(CUDA)` `NumPy` `Pandas`
+- **LLM / Agent** — `LangGraph` `VLM(gpt-4o)` `Qdrant` `RRF Hybrid` `LLM Reranker` `OpenAI API`
+- **Backend / MLOps** — `FastAPI` `PostgreSQL` `SQLite` `Docker(Compose)` `GitHub Actions CI` `MLflow` `ONNX/TensorRT` `Gradio` `PyQt`
+- **Web** — `React` `Vercel` `외부 API 연동(OpenAI·TourAPI·KakaoMap)`
+- **AI 코딩 도구** — `Claude` `Cursor` `GPT` `Gemini`
