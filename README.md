@@ -58,6 +58,14 @@ X-ray 데이터셋을 혼자 대규모로 구축·정제한 **오토라벨링 ·
 - **PyQt 로컬 검수 뷰어** — 키보드 한 손 조작, 삭제 되돌리기 (웹 업로드 없이 보안·속도 확보)
 - 10만 장 규모를 혼자 처리해 **외주 환산 약 3,000만 원 절감** · 클래스 세분화로 성능 개선·오탐 감소
 
+### [Lora — X-ray 위협물 이미지 생성](https://github.com/wahoman/Lora)
+
+부족한 X-ray 위협물 클래스 데이터를 **Stable Diffusion LoRA 파인튜닝**으로 생성해 보강
+
+- **SD 1.5 + LoRA (kohya_ss)** — 소량 데이터로 직접 파인튜닝해 X-ray 가위 이미지 생성
+- **데이터 중심 실험** — 30장 vs 150장 학습 비교로 데이터 양이 생성 품질에 미치는 영향 검증
+- 물리 기반 합성(TIP)과 함께, 데이터 부족을 **생성 모델로도 보강**
+
 ### [My_Travel](https://github.com/wahoman/My_Travel) · [Live ↗](https://my-travel-tau-five.vercel.app)
 
 SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰렛** (배포·운영 중)
@@ -74,12 +82,13 @@ SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰
 - **GPU 가속** — TIP 합성 100만 장 컬러매핑을 NumPy → CuPy(GPU)+병렬로 **약 2주 → 반나절**
 - **실험 자동화** — 매 실험 수 시간의 수동 작업 → 통합 런처 + MLflow로 **클릭 한 번**
 - **데이터 운영** — 100GB 학습 데이터를 버전별 SQLite DB로 **1GB 이하 보관**, 반복 업무를 **40여 개 도구**로 자동화
+- **생성 데이터 증강** — 부족한 위협물 클래스를 **Stable Diffusion LoRA 파인튜닝**으로 생성해 보강 (물리 합성 + 생성 모델 이중 접근)
 
 <br>
 
 ## 🛠 Tech Stack
 
-- **CV / ML** — `Python` `PyTorch` `YOLO11 / seg` `DINOv2` `UMAP` `HDBSCAN` `OpenCV` `CuPy(CUDA)` `NumPy` `Pandas`
+- **CV / ML** — `Python` `PyTorch` `YOLO11 / seg` `DINOv2` `UMAP` `HDBSCAN` `OpenCV` `CuPy(CUDA)` `NumPy` `Pandas` `Stable Diffusion` `LoRA(kohya_ss)` `imgaug`
 - **LLM / Agent** — `LangGraph` `VLM(gpt-4o)` `Qdrant` `RRF Hybrid` `LLM Reranker` `OpenAI API`
 - **Backend / MLOps** — `FastAPI` `PostgreSQL` `SQLite` `Docker(Compose)` `GitHub Actions CI` `MLflow` `ONNX/TensorRT` `Gradio` `PyQt`
 - **Web** — `React` `Vercel` `외부 API 연동(OpenAI·TourAPI·KakaoMap)`
