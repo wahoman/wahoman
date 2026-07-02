@@ -14,7 +14,7 @@
 
 <br>
 
-## 👋 소개
+## 소개
 
 스타트업에서 2년 3개월간, 항공 수하물 X-ray 보안검색 도메인에서 데이터 파이프라인부터 모델 학습, LLM 서비스까지 AI 개발의 전 과정을 직접 맡아왔습니다. 모델 성능이 막히면 원인을 데이터에서 찾아 오토라벨링·검수·클러스터링 도구를 직접 만들어 라벨을 정제했고, 반복되는 작업은 AI 코딩 도구를 활용해 빠르게 자동화했습니다. 이렇게 만든 모델은 **실제 장비에 탑재되어 현장에서 운용 중**입니다.
 
@@ -22,7 +22,7 @@ Computer Vision을 코어로 LLM·RAG·Agent와 백엔드·MLOps까지 폭넓게
 
 <br>
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [xray-agent-platform](https://github.com/wahoman/xray-agent-platform)
 
@@ -76,7 +76,7 @@ SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰
 
 <br>
 
-## ⚡ Highlights
+## Highlights
 
 - **라벨 정제로 성능 개선** — 임베딩 클러스터링 + 자체 검수 도구로 50만 장 라벨 정제, 모델 변경 없이 **mAP 0.50 → 0.86**
 - **비용 절감** — few-shot 오토라벨링으로 10만 장을 직접 처리, **외주 환산 약 3,000만 원 절감**
@@ -87,7 +87,7 @@ SVG 지도에서 고르면 읍/면/동까지 뽑아주는 **여행지 랜덤 룰
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **CV / ML** — `Python` `PyTorch` `YOLO11 / seg` `DINOv2` `UMAP` `HDBSCAN` `OpenCV` `CuPy(CUDA)` `NumPy` `Pandas` `Stable Diffusion` `LoRA(kohya_ss)` `imgaug`
 - **LLM / Agent** — `LangGraph` `VLM(gpt-4o)` `Qdrant` `RRF Hybrid` `LLM Reranker` `OpenAI API`
